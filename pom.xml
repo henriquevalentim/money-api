@@ -66,6 +66,12 @@
 			<artifactId>jackson-datatype-jsr310</artifactId>
 		</dependency>
 		
+		<!-- spring security -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-security</artifactId>
+		</dependency>
+		
 		<!-- para consiguir ver a real causa das exceptions -->
 		<dependency>
 			<groupId>org.apache.commons</groupId>
