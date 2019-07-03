@@ -85,6 +85,12 @@
 			<artifactId>spring-security-oauth2</artifactId>
 		</dependency>
 		
+		<!-- jwt -->
+		<dependency>
+			<groupId>org.springframework.security</groupId>
+			<artifactId>spring-security-jwt</artifactId>
+		</dependency>
+		
 		<!-- hibernate usado para criar a pasta no m2 para criar as classes q o 
 			hibernate gera -->
 		<!-- <dependency> <groupId>org.hibernate</groupId> <artifactId>hibernate-jpamodelgen</artifactId> 
